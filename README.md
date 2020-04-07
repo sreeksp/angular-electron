@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
+# Running Electron App
+
+- Clone the git repo using git clone https://github.com/sreeksp/angular-electron.git
+- Navigate to project root folder
+- npm install (make sure to have the latest version of node)
+- npm run electron
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
